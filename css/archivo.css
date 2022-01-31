@@ -12,7 +12,10 @@
     left: 260px;
     border: 3px solid grey;
 }
-
+.carouselslide {
+    width: 1700px ;
+    height: 180px;
+}
 .BarraNav {
  position: sticky;
  top: 0;   
